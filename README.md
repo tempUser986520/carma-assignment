@@ -1,9 +1,9 @@
 # Carma React Assignment
-This was the most fun Assignment to make. But unfortunately did not find much time to cover all asspects.\
-following was not done in this assignment.\
-1. Using TMDB.\
-2. Graph part of Assignment.\
-3. Although was a small thing but sort is also not part of this assignment.
+This was the most fun Assignment to make. Fortunately I started a new role as a senior FE dev so did not find much time to cover all aspects.
+The following was not done in this assignment.
+1. Using TMDB.
+2. Graph part of Assignment.
+3. Although it was a small thing, sorting is also not part of this assignment.
 
 # Getting Started with Create React App
 
